@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Anis Hanifa
-- 👀 I’m interested in Reverse Engineering, Game Development and other stuuf
+- 👋 Hello, I’m Anis Hanifa
+- 👀 I’m interested in Reverse Engineering, Game Development and other stuff
 - 🌱 I’m currently learning PHP and Kotlin
 <!---
 - 💞️ I’m looking to collaborate on ...
